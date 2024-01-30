@@ -1,0 +1,2 @@
+module SearshesHelper
+end
