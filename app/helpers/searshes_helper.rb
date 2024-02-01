@@ -1,2 +1,0 @@
-module SearshesHelper
-end
